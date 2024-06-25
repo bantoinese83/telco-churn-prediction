@@ -1,0 +1,34 @@
+# IntelliJ IDEA files
+.idea/
+*.iml
+
+# Log files
+logs/
+
+# Data files
+mnt/data/
+*.parquet
+*.csv
+*.pkl
+
+# Model files
+mnt/model/
+*.cbm
+
+# CatBoost training files
+catboost_info/
+
+# Temporary files
+tmp/
+
+# Assets
+assets/
+
+# Dockerfile
+Dockerfile
+
+# Python files
+*.py
+
+# Requirements file
+requirements.txt
