@@ -93,7 +93,7 @@ The project directory structure is as follows:
     ```sh
     streamlit run streamlit_app.py
     ```
-<img src="assets/screenshot.png" alt="Logo" width="2557"/>
+<img src="assets/screenshot.png" alt="Screenshot" width="2557"/>
 
 
 ## Data Preprocessing and Training
